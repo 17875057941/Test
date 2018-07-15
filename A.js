@@ -3,6 +3,7 @@
  */
 function A(){
     console.log('branch-a')
+    console.log('branch-a')
 }
 
 A();
